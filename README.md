@@ -9,4 +9,4 @@ Generates a conversation containing:
 * A response to the question
 * A farewell
 
-Idealy, when I have learned promts in JS, I will include a prompt before the reply and farewell is excecuted.
+Idealy, when I have learned prompts in JS, I will include a prompt before the reply and farewell is excecuted.
